@@ -2,24 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="801273bd-7950-4d2b-8eec-1df61391a771" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/erasure/ArrayMaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/GenericArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/InstantiateGenericType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/MyTemplate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/MyTypeCapture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bounds/BasicBounds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bounds/EpicBattle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bounds/InheritBounds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bounds/MyBasicBounds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/erasure/ListOfGenerics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/GenericArrayWithTypeToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wildcards/CovariantArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/building/complex/models/Amphibian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/building/complex/models/Amphibian.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/building/complex/models/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/building/complex/models/Store.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/building/complex/models/TupleList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/building/complex/models/TupleList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/building/complex/models/TupleTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/building/complex/models/TupleTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/building/complex/models/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/building/complex/models/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/erasure/ErasureAndInheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/erasure/ErasureAndInheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/erasure/HasF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/erasure/HasF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/erasure/LostInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/erasure/LostInformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/erasure/Manipulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/erasure/Manipulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/erasure/Manipulator2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/erasure/Manipulator2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/erasure/ReturnGenericType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/erasure/ReturnGenericType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/onjava/Rand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/onjava/Rand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/onjava/TestRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/onjava/TestRange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/onjava/atunit/AtUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/onjava/atunit/AtUnit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/ArrayMerge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/ArrayMerge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/MyShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/MyShop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="CodeStyleSettingsInfer">
-    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -34,9 +45,6 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectCodeStyleSettingsMigration">
-    <option name="version" value="2" />
-  </component>
   <component name="ProjectId" id="2LMDIKN1aurb2KfT6KWsSmLkvVM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -45,13 +53,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

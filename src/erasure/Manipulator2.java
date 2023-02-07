@@ -1,2 +1,8 @@
-package erasure;public class Manipulator2 {
+package erasure;
+
+class Manipulator2<T extends HasF> {
+    private T obj;
+    Manipulator2(T x) { obj = x; }
+    public void manipulate() { obj.f(); }
 }
+

@@ -1,2 +1,4 @@
-package building.complex.models;public class Vehicle {
+package building.complex.models;
+
+public class Vehicle {
 }

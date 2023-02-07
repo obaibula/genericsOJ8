@@ -1,2 +1,9 @@
-package test;public class MyShop {
+package test;
+
+class Product{
+
+}
+
+
+public class MyShop {
 }
