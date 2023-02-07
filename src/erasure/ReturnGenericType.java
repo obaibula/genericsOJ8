@@ -1,2 +1,4 @@
-package erasure;public class ReturnGenericType {
+package erasure;
+
+public class ReturnGenericType {
 }
