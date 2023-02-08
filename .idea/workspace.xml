@@ -1,25 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="801273bd-7950-4d2b-8eec-1df61391a771" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/wildcards/CompilerIntelligence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wildcards/GenericReading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wildcards/GenericsAndCovariance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wildcards/Holder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wildcards/NonCovariantGenerics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wildcards/SuperTypeWildcards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wildcards/UnboundedWildcards1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wildcards/UnboundedWildcards2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wildcards/Wildcards.java" afterDir="false" />
+    <list default="true" id="801273bd-7950-4d2b-8eec-1df61391a771" name="Changes" comment="My commit 2023">
+      <change afterPath="$PROJECT_DIR$/src/issues/GenericCast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/issues/PrimitiveGenericTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/ArrayReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/NewGenerics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wildcards/CaptureConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wildcards/MyFibbonacciRecurssion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_08_02_2023__06_16__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_08_02_2023__06_16__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="CodeStyleSettingsInfer">
-    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -34,9 +32,6 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectCodeStyleSettingsMigration">
-    <option name="version" value="2" />
-  </component>
   <component name="ProjectId" id="2LMDIKN1aurb2KfT6KWsSmLkvVM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -48,8 +43,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
