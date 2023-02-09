@@ -1,24 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="801273bd-7950-4d2b-8eec-1df61391a771" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/selfboundedtypes/BasicHolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/selfboundedtypes/CRGWithBasicHolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/selfboundedtypes/CovariantReturnTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/selfboundedtypes/OrdinaryArguments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/selfboundedtypes/PlainGenericInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/selfboundedtypes/SelfBounding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/selfboundedtypes/SelfBoundingAndCovariantArguments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/selfboundedtypes/Unconstrained.java" afterDir="false" />
+    <list default="true" id="801273bd-7950-4d2b-8eec-1df61391a771" name="Changes" comment="My commit 2023">
+      <change afterPath="$PROJECT_DIR$/src/dynamictypesafety/CheckedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/ThrowGenericException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/latenttyping/DogsAndRobotMethodReferences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/latenttyping/LatentReflection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mixins/MYDEC/MyDecoration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mixins/Mixins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mixins/decorator/Decoration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reflection/pets/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reflection/pets/Creator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reflection/pets/Cymric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reflection/pets/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reflection/pets/EgyptianMau.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reflection/pets/ForNamePetCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reflection/pets/Hamster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reflection/pets/Individual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reflection/pets/Manx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reflection/pets/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reflection/pets/Mutt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reflection/pets/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reflection/pets/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reflection/pets/PetCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reflection/pets/Pug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reflection/pets/Rat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reflection/pets/Rodent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/BankTeller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/LatenTypingTesting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/RandomList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/SuppliersTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="CodeStyleSettingsInfer">
-    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -33,9 +53,6 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectCodeStyleSettingsMigration">
-    <option name="version" value="2" />
-  </component>
   <component name="ProjectId" id="2LMDIKN1aurb2KfT6KWsSmLkvVM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -44,13 +61,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/kuznetsov.aa.HITED1UA/IdeaProjects/genericsOJ8/src/reflection"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kuznetsov.aa.HITED1UA\IdeaProjects\genericsOJ8\src\reflection" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="mixins.decorator" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
